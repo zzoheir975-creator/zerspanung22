@@ -1,0 +1,52 @@
+[
+  {
+    "name": "C45",
+    "nummer": "1.0503",
+    "gruppe": "Vergütungsstahl (unlegiert)",
+    "rm": 725,
+    "vcFraesen": 125,
+    "fz": 0.07,
+    "vcDrehen": 180,
+    "f": 0.18
+  },
+  {
+    "name": "42CrMo4",
+    "nummer": "1.7225",
+    "gruppe": "Vergütungsstahl (legiert)",
+    "rm": 950,
+    "vcFraesen": 105,
+    "fz": 0.06,
+    "vcDrehen": 145,
+    "f": 0.16
+  },
+  {
+    "name": "S235JR",
+    "nummer": "1.0038",
+    "gruppe": "Baustahl",
+    "rm": 510,
+    "vcFraesen": 140,
+    "fz": 0.08,
+    "vcDrehen": 210,
+    "f": 0.22
+  },
+  {
+    "name": "1.4301",
+    "nummer": "1.4301",
+    "gruppe": "Nichtrostender Stahl",
+    "rm": 650,
+    "vcFraesen": 75,
+    "fz": 0.05,
+    "vcDrehen": 110,
+    "f": 0.14
+  },
+  {
+    "name": "AlMg3",
+    "nummer": "3.3535",
+    "gruppe": "Aluminiumlegierung",
+    "rm": 240,
+    "vcFraesen": 350,
+    "fz": 0.12,
+    "vcDrehen": 500,
+    "f": 0.28
+  }
+]
